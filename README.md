@@ -23,7 +23,7 @@ css/ – Folder containing stylesheets
 imgs/ – Folder containing images used in the site
 
 ### 📂 Live Preview
-You can open home.html in any browser to view the site.
+###### You can open home.html in any browser to view the site.
 
 📌 Code available in this repository.
 🎥 Video demo shared separately.
